@@ -58,7 +58,6 @@
         <table class="table table-striped">
             <?php for($i=0; $i < count($hotels); $i++) { 
                 $cur_hotel = $hotels[$i];?>
-                
                     <thead>
                         <tr>
                         <th scope="col">Nome:</th>
